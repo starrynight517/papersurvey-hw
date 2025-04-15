@@ -1,1 +1,2 @@
 # papersurvey-hw
+2025年文献综述个人作业，包含Gemini的API调用与Gemini写作文献综述的一个示例
